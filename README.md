@@ -1,4 +1,4 @@
-### Simple Calculator with Elmish
+### Simple Calculator with Elmish [Demo](https://fable-elmish.github.io/sample-react-calc/)
 
 ![example.gif](https://cloud.githubusercontent.com/assets/13316248/24982293/122bbe7e-1fe1-11e7-9dfd-7618688ab8df.gif)
 
