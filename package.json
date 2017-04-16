@@ -4,7 +4,7 @@
   "description": "Simple Fable Calc",
   "scripts": {
     "build": "webpack -p",
-    "start-webpack": "webpack-dev-server",
+    "start": "webpack-dev-server",
     "start-fable": "dotnet fable start"
   },
   "keywords": [],
