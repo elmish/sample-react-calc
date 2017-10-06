@@ -13,8 +13,8 @@ let digitStyle =
         VerticalAlign "middle"
         BackgroundColor "lightgreen"
         CSSProp.Width 55
-        CSSProp.FontSize (!^ 24.0)
-        LineHeight (!^ 40.0)
+        CSSProp.FontSize (!! 24.0)
+        LineHeight (!! 40.0)
         unbox ("font-size", "24px")
         unbox ("line-height", "40px")
         unbox ("cursor","pointer")
